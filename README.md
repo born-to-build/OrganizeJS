@@ -1,4 +1,4 @@
 OrganizeJS
 ==========
 
-Organize.js
+OrganizeJS
